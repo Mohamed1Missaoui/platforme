@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "H:\\flutter2\\liste\\build\\firebase_auth\\intermediates\\res\\merged\\profile\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "H:\\flutter2\\liste\\build\\firebase_auth\\intermediates\\res\\merged\\profile\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "H:\\flutter2\\liste\\build\\firebase_auth\\intermediates\\res\\merged\\profile\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "H:\\flutter2\\liste\\build\\firebase_auth\\intermediates\\res\\merged\\profile\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    }
+]

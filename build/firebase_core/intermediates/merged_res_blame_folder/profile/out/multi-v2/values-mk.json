@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "H:\\flutter2\\liste\\build\\firebase_core\\intermediates\\res\\merged\\profile\\values-mk\\values-mk.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\values-mk\\values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "192",
+                        "endColumns": "100",
+                        "endOffsets": "288"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\f0b38afda5e5c80c29a80fb8b625de2e\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-mk\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "132",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "136",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "H:\\flutter2\\liste\\build\\firebase_core\\intermediates\\incremental\\mergeProfileResources\\merged.dir\\values-mk\\values-mk.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\values-mk\\values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "192",
+                        "endColumns": "100",
+                        "endOffsets": "288"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\f0b38afda5e5c80c29a80fb8b625de2e\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-mk\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "132",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "136",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

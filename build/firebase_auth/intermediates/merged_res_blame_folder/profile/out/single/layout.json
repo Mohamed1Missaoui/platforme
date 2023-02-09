@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "H:\\flutter2\\liste\\build\\firebase_auth\\intermediates\\res\\merged\\profile\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "H:\\flutter2\\liste\\build\\firebase_auth\\intermediates\\res\\merged\\profile\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "H:\\flutter2\\liste\\build\\firebase_auth\\intermediates\\res\\merged\\profile\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "H:\\flutter2\\liste\\build\\firebase_auth\\intermediates\\res\\merged\\profile\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "H:\\flutter2\\liste\\build\\firebase_auth\\intermediates\\res\\merged\\profile\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "H:\\flutter2\\liste\\build\\firebase_auth\\intermediates\\res\\merged\\profile\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\648cda13f388d2bab13d5425033ea063\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "H:\\flutter2\\liste\\build\\firebase_auth\\intermediates\\res\\merged\\profile\\layout\\browser_actions_context_menu_row.xml",
+        "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\575e9d5aaab069d33032a1fb649a7f07\\transformed\\browser-1.4.0\\res\\layout\\browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "H:\\flutter2\\liste\\build\\firebase_auth\\intermediates\\res\\merged\\profile\\layout\\browser_actions_context_menu_page.xml",
+        "source": "C:\\Users\\Missaoui\\.gradle\\caches\\transforms-3\\575e9d5aaab069d33032a1fb649a7f07\\transformed\\browser-1.4.0\\res\\layout\\browser_actions_context_menu_page.xml"
+    }
+]
